@@ -30,16 +30,20 @@
         android:text="MATCH_PARENT"
         android:textSize="50sp"
         android:background="#F8C471"/>
-    
+
 <LinearLayout
-    android:layout_width=""
-    android:layout_height=""
+    android:layout_width="200dp"
+    android:layout_height="match_parent">
+
     <Button
         android:id="@+id/textView3"
         android:layout_width="300dp"
         android:layout_height="80dp"
         android:text="Tal"
         android:textSize="50sp"
-        android:background="#D0D3D4"/>
+        android:background="#1A5276"/>
+
+</LinearLayout>
+    
 
 </LinearLayout>
