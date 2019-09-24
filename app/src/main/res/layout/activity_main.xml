@@ -21,7 +21,7 @@
         android:layout_height="40dp"
         android:background="#D0ECE7"
 
-        android:text="Hola" />
+        android:text="WRAP CONTENT" />
 
     <Button
         android:id="@+id/textView2"
