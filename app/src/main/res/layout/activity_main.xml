@@ -27,10 +27,13 @@
         android:id="@+id/textView2"
         android:layout_width="match_parent"
         android:layout_height="60dp"
-        android:text="Que"
+        android:text="MATCH_PARENT"
         android:textSize="50sp"
         android:background="#F8C471"/>
-
+    
+<LinearLayout
+    android:layout_width=""
+    android:layout_height=""
     <Button
         android:id="@+id/textView3"
         android:layout_width="300dp"
