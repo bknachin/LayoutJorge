@@ -20,6 +20,7 @@
         android:layout_width="100dp"
         android:layout_height="40dp"
         android:background="#D0ECE7"
+
         android:text="Hola" />
 
     <TextView
@@ -27,6 +28,7 @@
         android:layout_width="200dp"
         android:layout_height="60dp"
         android:text="Que"
+        android:textSize="50sp"
         android:background="#F8C471"/>
 
     <TextView
@@ -34,6 +36,7 @@
         android:layout_width="300dp"
         android:layout_height="80dp"
         android:text="Tal"
+        android:textSize="50sp"
         android:background="#D0D3D4"/>
 
 </LinearLayout>
