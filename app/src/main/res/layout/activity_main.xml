@@ -38,8 +38,8 @@
 
     <Button
         android:id="@+id/button3"
-        android:layout_width="300dp"
-        android:layout_height="80dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
         android:text="Tal"
         android:textSize="50sp"
         android:background="#1A5276"/>
